@@ -1,4 +1,4 @@
-<script>
+
 import { VctrApi } from "https://www.vectary.com/viewer-api/v1/api.js";
 
 async function run() {    
@@ -47,4 +47,4 @@ async function run() {
 }
 
 run();
-</script>
+
